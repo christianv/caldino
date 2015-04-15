@@ -1,4 +1,4 @@
-# CalDino: Unofficial unsupported CalDining application
+# Caldino: Unofficial Unsupported Caldining Application
 
 https://caldino.herokuapp.com
 
@@ -13,7 +13,7 @@ gulp
 ### Initial setup
 
 ```
-git remote add heroku git@heroku.com:caldining.git
+git remote add heroku git@heroku.com:caldino.git
 ```
 
 ### Push to Heroku
